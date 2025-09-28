@@ -1,0 +1,7 @@
+Flask==2.3.2
+ariadne==0.20.0
+requests==2.31.0
+graphql-core==3.2.3
+python-dotenv==1.0.0
+streamlit
+pandas
